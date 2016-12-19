@@ -15,6 +15,16 @@ We'll cover type annotation and introduce a new type, Integers.
 * Explain the difference between type inference and type annotations
 * Create a variable of type `Int`
 
+## Data Types Video
+
+[![](http://img.youtube.com/vi/3mSHw2jq76E/0.jpg)](https://www.youtube.com/watch?v=3mSHw2jq76E "Data Types")
+
+
+## Strings & Characters Video
+
+[![](http://img.youtube.com/vi/Q-OwMSggiiY/0.jpg)](https://www.youtube.com/watch?v=Q-OwMSggiiY "Strings & Characters")
+
+
 ## Strings
 
 So far in your lessons, you've only been working with strings. "String" is a generic programming term for a sequence of characters. In Swift, the _data type_ that represents a string is also called a `String` (with a capital S). Swift strings are also sequences of characters. Often times, these characters are letters and numbers, and `String`s are recognizable as words and sentences. However, in Swift, a `String` can contain any character. In addition to alphanumeric characters like `a` and `9`, they can also be symbols such as `@` or `+`, or even a space. They can also be characters from languages other than English, such as `ñ` or `ß`. They can even contain other symbols, like `™` or `©`. If you can type it, you can put it in a `String`!
